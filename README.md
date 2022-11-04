@@ -1,1 +1,3 @@
-# potato-price-prediction-linear-regression
+# Potato-Price-Prediction-LinearRegression
+<hr>
+## This project is about the prediction of potato price.
